@@ -4,7 +4,7 @@
 
 A fashion item classifier developed with TensorFlow 2.0.0 and Keras.
 
-It is based of the [`fashion_mnist`](https://github.com/zalandoresearch/fashion-mnist) dataset of Keras:
+It is based of the popular [`fashion_mnist`](https://github.com/zalandoresearch/fashion-mnist) dataset of Keras:
 
 ![MNIST Dataset](https://github.com/zalandoresearch/fashion-mnist/raw/master/doc/img/fashion-mnist-sprite.png)
 
