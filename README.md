@@ -6,3 +6,17 @@ A fashion item classifier developed with TensorFlow 2.0.0 and Keras.
 
 It is based of the `fashion_mnist` dataset of Keras.
 
+## 📦 Deployment
+It's important install **TensorFlow 2.0.0** with PIP using:
+```
+pip install tensorflow==2.0.0-alpha0
+```
+
+Then install other libraries like:
+* Pandas
+* Numpy
+* Matplotlib
+
+With its latest version using PIP.
+
+
