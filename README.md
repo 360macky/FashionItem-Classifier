@@ -77,7 +77,7 @@ model = keras.Sequential([
 ### Building the Neural Network
 
 Using `compile` method of `Sequential` using the necessary parameters: 
-* **Optimizer:** Set as `adam`
+* **Optimizer:** Set as [`adam`](https://towardsdatascience.com/adam-latest-trends-in-deep-learning-optimization-6be9a291375c), an optimizing algorithm.
 * **Loss:** Set as `sparse_categorical_crossentropy`
 
 ```python
