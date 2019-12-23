@@ -74,3 +74,16 @@ model = keras.Sequential([
 ])
 ```
 
+### Building the Neural Network
+
+Using `compile` method of `Sequential` using the necessary parameters: 
+* **Optimizer:** Set as `adam`
+* **Loss:** Set as `sparse_categorical_crossentropy`
+
+```python
+model.compile(
+  optimizer="adam",
+  loss="sparse_categorical_crossentropy",
+  metrics=["accuracy"]
+)
+```
