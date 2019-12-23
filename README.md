@@ -1,6 +1,6 @@
 # FashionItem-Classifier
 
-[![Build with TensorFlow](https://img.shields.io/static/v1?label=Made%20with&message=TensorFlow%202.0.0&color=orange)](https://www.tensorflow.org/)
+[![Build with TensorFlow](https://img.shields.io/static/v1?label=Made%20with&message=TensorFlow%202.0.0&color=orange)](https://www.tensorflow.org/) [![Build with Keras](https://img.shields.io/static/v1?label=Build%20with&message=Keras&color=red)](https://keras.io/)
 
 A fashion item classifier developed with TensorFlow 2.0.0 and Keras.
 
