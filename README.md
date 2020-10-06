@@ -2,7 +2,14 @@
 
 <p align="center">A fashion item classifier developed with TensorFlow 2.0.0 and Keras.</p>
 
-[![Build with TensorFlow](https://img.shields.io/static/v1?label=Made%20with&message=TensorFlow%202.0.0&color=orange)](https://www.tensorflow.org/) [![Build with Keras](https://img.shields.io/static/v1?label=Build%20with&message=Keras&color=red)](https://keras.io/)
+<p align="center">
+  <!-- Python -->
+  <img src="https://img.shields.io/static/v1?style=flat-square&label=Python&message=v3.7.4&color=3776AB&logo=python" />
+  <!-- TensorFlow -->
+  <img src="https://img.shields.io/static/v1?style=flat-square&label=TensorFlow&message=v2.0.0&color=FF6F00&logo=tensorflow" />
+  <!-- Keras -->
+  <img src="https://img.shields.io/static/v1?style=flat-square&label=React&message=v2.2.4&color=D00000&logo=keras" />
+</p>
 
 It is based of the popular [`fashion_mnist`](https://github.com/zalandoresearch/fashion-mnist) dataset of Keras:
 
