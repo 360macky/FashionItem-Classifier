@@ -14,6 +14,7 @@
 It is based of the popular [`fashion_mnist`](https://github.com/zalandoresearch/fashion-mnist) dataset of Keras:
 
 ![MNIST Dataset](https://github.com/zalandoresearch/fashion-mnist/raw/master/doc/img/fashion-mnist-sprite.png)
+![TensorFlow](./.github/tensorflow.png)
 
 ## 📦 Deployment
 It's important install **TensorFlow 2.0.0** with PIP using:
