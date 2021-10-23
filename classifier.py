@@ -41,7 +41,6 @@ test_loss, test_acc = model.evaluate(test_images, test_labels)
 
 print("Test accuracy: ", test_acc)
 
-# Prediction of the model
 prediction = model.predict(test_images)
 
 for i in range(7):
